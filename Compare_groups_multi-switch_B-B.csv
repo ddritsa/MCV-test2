@@ -1,0 +1,21 @@
+,timestamp,HR,co2,noise,humidity,stress,sleepscore,fatigue,mood,focus,relaxation,fluidintake,caffeineintake,productivity,activityintensity,foodintake,food,activitytype,company,location,Filter A,Filter A2,Filter B,Filter B2
+0,2025-09-01T08:00:00,2,5,5,6,5,2,2,4,6,5,2,2,4,6,4,fruit,swim,partner,cafe,Yes,,Yes,
+1,2025-09-01T10:00:00,3,7,6,3,5,5,7,4,5,3,2,2,5,5,4,cracker,walk,relatives,store,Yes,,Yes,
+2,2025-09-01T12:00:00,6,2,4,7,5,5,7,2,4,5,4,3,5,3,4,bread,bike,colleagues,park,Yes,,Yes,
+3,2025-09-01T14:00:00,2,6,4,2,4,2,6,3,2,2,3,4,5,7,2,yoghurt,swim,partner,store,,,,
+4,2025-09-01T16:00:00,4,7,6,6,3,1,3,2,5,3,1,6,5,3,3,cracker,yoga,relatives,street,,Yes,,Yes
+5,2025-09-01T18:00:00,2,4,5,4,4,3,2,5,3,5,2,1,6,1,2,milk,walk,strangers,office,,,,
+6,2025-09-01T20:00:00,5,5,6,3,2,3,4,2,5,5,4,4,5,7,4,oatmeal,yoga,colleagues,cafe,,,,
+7,2025-09-01T22:00:00,6,2,1,5,1,4,4,3,6,5,2,4,5,5,5,oatmeal,tennis,relatives,park,,,,
+8,2025-09-02T00:00:00,3,5,3,7,4,6,1,6,6,4,5,2,6,6,5,bread,tennis,strangers,street,Yes,,Yes,
+9,2025-09-02T02:00:00,5,1,7,5,5,7,4,3,4,5,3,5,2,4,1,fruit,golf,neighbours,office,,Yes,,Yes
+10,2025-09-02T04:00:00,5,6,7,2,4,5,5,7,5,4,2,3,4,3,2,milk,walk,strangers,cafe,Yes,,Yes,
+11,2025-09-02T06:00:00,2,3,2,1,6,3,6,1,4,3,6,3,4,2,6,oatmeal,walk,relatives,cafe,Yes,,Yes,
+12,2025-09-02T08:00:00,6,1,1,6,6,5,2,6,2,2,3,4,4,4,3,oatmeal,yoga,friends,store,,,,
+13,2025-09-02T10:00:00,5,2,7,3,4,3,5,5,1,1,3,4,3,3,4,milk,bike,partner,store,,,,
+14,2025-09-02T12:00:00,6,4,6,5,2,4,5,4,1,1,2,4,5,5,4,milk,bike,strangers,cafe,,,,
+15,2025-09-02T14:00:00,6,2,6,6,6,3,5,5,4,3,1,3,5,5,4,yoghurt,bike,colleagues,store,Yes,,Yes,
+16,2025-09-02T16:00:00,6,7,4,4,6,1,4,6,4,6,2,1,3,4,4,bread,yoga,strangers,cafe,,,,
+17,2025-09-02T18:00:00,2,5,5,1,5,3,3,4,6,6,4,5,2,3,4,fruit,bike,neighbours,home,,Yes,,Yes
+18,2025-09-02T20:00:00,5,6,5,2,1,2,7,3,6,5,4,4,2,6,1,milk,tennis,neighbours,park,,,,
+19,2025-09-02T22:00:00,2,6,1,3,4,4,6,2,5,6,2,2,6,4,3,fruit,walk,friends,cafe,Yes,,Yes,
