@@ -1,0 +1,16 @@
+,timestamp,HR,co2,noise,humidity,stress,sleepscore,fatigue,mood,activityintensity,foodintake,food,activitytype,company,location,Filter A,Filter B,tm
+0,2025-09-01T08:00:00,81,1698,49,42,3,5,4,1,4,1,milk,walk,partner,park,,,2025-09-01 08:00:00
+1,2025-09-01T10:00:00,69,1560,34,63,5,6,2,1,1,7,milk,swim,acquaintances,office,,,2025-09-01 10:00:00
+2,2025-09-01T12:00:00,96,1529,67,32,3,7,3,2,1,4,bread,golf,partner,store,,,2025-09-01 12:00:00
+3,2025-09-01T14:00:00,74,1521,65,32,4,5,7,5,4,7,fruit,golf,strangers,home,,,2025-09-01 14:00:00
+4,2025-09-01T16:00:00,66,671,52,55,6,7,3,2,4,3,bread,bike,partner,office,,,2025-09-01 16:00:00
+5,2025-09-01T18:00:00,96,834,42,41,2,1,1,1,6,6,milk,walk,partner,office,,,2025-09-01 18:00:00
+6,2025-09-01T20:00:00,143,1278,66,51,1,3,1,4,6,5,fruit,tennis,colleagues,street,,,2025-09-01 20:00:00
+7,2025-09-01T22:00:00,132,1425,53,49,2,7,2,2,4,6,oatmeal,yoga,friends,store,,,2025-09-01 22:00:00
+8,2025-09-02T00:00:00,129,1597,65,44,6,6,6,7,1,5,yoghurt,bike,colleagues,cafe,,,2025-09-02 00:00:00
+9,2025-09-02T02:00:00,80,1632,64,70,5,3,3,2,3,4,bread,swim,colleagues,store,Yes,,2025-09-02 02:00:00
+10,2025-09-02T04:00:00,108,521,50,38,2,7,3,4,2,2,bread,golf,friends,park,Yes,,2025-09-02 04:00:00
+11,2025-09-02T06:00:00,85,1248,47,47,3,5,2,6,2,2,milk,walk,acquaintances,store,Yes,,2025-09-02 06:00:00
+12,2025-09-02T08:00:00,76,1340,54,38,2,6,7,3,2,6,milk,bike,relatives,park,Yes,Yes,2025-09-02 08:00:00
+13,2025-09-02T10:00:00,70,1108,47,55,4,3,4,7,6,6,fruit,golf,friends,home,,,2025-09-02 10:00:00
+14,2025-09-02T12:00:00,79,649,36,41,1,2,2,4,4,7,fruit,golf,partner,home,,,2025-09-02 12:00:00
